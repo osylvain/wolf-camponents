@@ -8,7 +8,6 @@ import configureStore from './store/configureStore';
 import './../styles/style.scss'
 
 const store = configureStore();
-const history = syncHistoryWithStore(hashHistory, store);
 
 render(
     <Provider store={store}>
