@@ -15,3 +15,4 @@ A seed project that I use for my react redux projects
 ### Run
 
 * Dev web : ``` npm run start-dev-web ```
+lol
