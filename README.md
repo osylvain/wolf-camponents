@@ -1,4 +1,4 @@
-# re-seed
+# Wolf-Camponents
 A seed project that I use for my react redux projects
 
 ## Core Technologies
